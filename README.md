@@ -1,2 +1,2 @@
 # goit-markup-hw-01
- Initial code
+https://gotsmanroman.github.io/goit-markup-hw-01/
